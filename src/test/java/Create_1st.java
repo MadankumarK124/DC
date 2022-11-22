@@ -8,6 +8,8 @@ public class Create_1st {
 
 		System.out.println("updated");
 		
+		System.out.println("deleted");
+		
 		
 		
 		
